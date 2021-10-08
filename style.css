@@ -98,6 +98,11 @@ h2 {
 .plava {
   background-color: #3882f6;
   color: #f9faf8;
+  opacity: 0.8;
+}
+
+.plava:hover {
+  opacity: 1;
 }
 
 /* Random Information */
